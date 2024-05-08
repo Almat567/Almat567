@@ -1,4 +1,4 @@
-![image](https://github.com/Almat567/Almat/assets/168777926/ccbb9f0f-b662-4457-89fd-3b9b44aa53db)
+![Black Technology LinkedIn Banner](https://github.com/Almat567/Almat567/assets/168777926/a6f1ffc2-c42f-4267-b658-604afca022ad)
 <h1 align="center">Hi 👋, I'm Alain Mathew</h1>
 <h3 align="center">Striving to be Full-Stack Data Scientist</h3>
 <img align="right" alt="coding" width="300" src="https://github.com/Almat567/Almat/assets/168777926/fb9c6ede-4287-4347-9650-4e839c9c6e89.gif">
